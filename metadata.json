@@ -26,19 +26,6 @@
     "updated_at": "2026-03-15T08:23:11.392Z"
   },
   {
-    "id": "-0O9H4KEzjtsCRjjaroq-HkRoMbHaN9H",
-    "plugin": "cmdr",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "2.0.0",
-    "supported_versions": "0.5.1",
-    "title": "Commander",
-    "description": "Customize your workspace by adding commands everywhere, create Macros and supercharge your mobile toolbar.",
-    "hash": "1f0c025f1f0c025f1f0c025f1f0c025f",
-    "created_at": "2026-03-15T08:23:11.396Z",
-    "updated_at": "2026-03-15T08:23:11.396Z"
-  },
-  {
     "id": "kPNr-VXRRSQgH-dve5rJIUt8BhoDnHRr",
     "plugin": "pkmer",
     "type": "plugin",
