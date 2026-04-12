@@ -13,17 +13,17 @@
     "updated_at": "2026-03-15T08:23:11.397Z"
   },
   {
-    "id": "kPNr-VXRRSQgH-dve5rJIUt8BhoDnHRr",
-    "plugin": "pkmer",
+    "id": "5NHLWz5X2kjq1k_Z7LeWSkmIL7lfjcO-",
+    "plugin": "calendar",
     "type": "plugin",
     "language": "zh-cn",
     "version": "2.0.0",
-    "supported_versions": "0.8.5",
-    "title": "pkmer",
-    "description": "这是一个连接pkmer.cn的插件",
-    "hash": "6571050e6571050e6571050e6571050e",
-    "created_at": "2026-03-15T08:23:11.393Z",
-    "updated_at": "2026-03-15T08:23:11.393Z"
+    "supported_versions": "1.5.10",
+    "title": "Calendar",
+    "description": "Calendar view of your daily notes",
+    "hash": "3cb1ecd23cb1ecd23cb1ecd23cb1ecd2",
+    "created_at": "2026-03-15T08:23:11.392Z",
+    "updated_at": "2026-03-15T08:23:11.392Z"
   },
   {
     "id": "5dJ3cHcK0mgPiyvjB91YkZnCQVVQUHhP",
