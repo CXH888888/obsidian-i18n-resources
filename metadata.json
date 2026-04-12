@@ -65,19 +65,6 @@
     "updated_at": "2026-03-15T08:23:11.395Z"
   },
   {
-    "id": "ES5vVpiqQrMhjunnsEgaU1vV1YHMTHC9",
-    "plugin": "floating-toc",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "2.0.0",
-    "supported_versions": "2.4.7",
-    "title": "floating toc",
-    "description": "This is a floating Toc plugin that  hovers a table of content  containing a header level on the notes sidebar.",
-    "hash": "68b08fb168b08fb168b08fb168b08fb1",
-    "created_at": "2026-03-15T08:23:11.395Z",
-    "updated_at": "2026-03-15T08:23:11.395Z"
-  },
-  {
     "id": "_xi2WBZ_h3glZM1lgjHrgH50_KSX_k5n",
     "plugin": "obsidian-hider",
     "type": "plugin",
