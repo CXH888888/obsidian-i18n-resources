@@ -182,19 +182,6 @@
     "updated_at": "2026-04-08T14:04:02.693Z"
   },
   {
-    "id": "-tbhVapRVpexmcdY0jotUkaW1YPzGLn0",
-    "plugin": "obsidian-clipper",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "2.0.0",
-    "supported_versions": "0.2.9",
-    "title": "Clipper",
-    "description": "This plugin helps you capture highlights from the web.",
-    "hash": "10a6ef1610a6ef1610a6ef1610a6ef16",
-    "created_at": "2026-04-08T14:04:02.694Z",
-    "updated_at": "2026-04-08T14:04:02.694Z"
-  },
-  {
     "id": "k-3eZkqdoPJ2jmwgf2-5_e97WRlVa0P3",
     "plugin": "obsidian-custom-attachment-location",
     "type": "plugin",
