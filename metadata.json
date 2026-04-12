@@ -91,19 +91,6 @@
     "updated_at": "2026-03-15T08:23:11.395Z"
   },
   {
-    "id": "_xi2WBZ_h3glZM1lgjHrgH50_KSX_k5n",
-    "plugin": "obsidian-hider",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "2.0.0",
-    "supported_versions": "1.5.1",
-    "title": "Hider",
-    "description": "Hide UI elements such as tooltips, status, titlebar and more",
-    "hash": "6609fbe66609fbe66609fbe66609fbe6",
-    "created_at": "2026-03-15T08:23:11.396Z",
-    "updated_at": "2026-03-15T08:23:11.396Z"
-  },
-  {
     "id": "L9eeGw7xNtLAGX_Kt_VYagk_AdX3F7Qt",
     "plugin": "obsidian-hover-editor",
     "type": "plugin",
