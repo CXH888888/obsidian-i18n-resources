@@ -52,19 +52,6 @@
     "updated_at": "2026-03-15T08:23:11.394Z"
   },
   {
-    "id": "w8NanzNnVtjvGiWHYoAIOHJ1Fh27V3sr",
-    "plugin": "obsidian-auto-hide",
-    "type": "plugin",
-    "language": "zh-cn",
-    "version": "2.0.0",
-    "supported_versions": "0.4.8",
-    "title": "Auto Hide",
-    "description": "Collapse sidebars when clicking on the editor/viewer panel",
-    "hash": "3185906b3185906b3185906b3185906b",
-    "created_at": "2026-03-15T08:23:11.400Z",
-    "updated_at": "2026-03-15T08:23:11.400Z"
-  },
-  {
     "id": "dQ3RyKJCuS7S4zDxRUEMkv0i8bCwP6Fj",
     "plugin": "editing-toolbar",
     "type": "plugin",
@@ -180,6 +167,19 @@
     "hash": "0b9fea5b0b9fea5b0b9fea5b0b9fea5b",
     "created_at": "2026-04-08T14:04:02.693Z",
     "updated_at": "2026-04-08T14:04:02.693Z"
+  },
+  {
+    "id": "-tbhVapRVpexmcdY0jotUkaW1YPzGLn0",
+    "plugin": "obsidian-clipper",
+    "type": "plugin",
+    "language": "zh-cn",
+    "version": "2.0.0",
+    "supported_versions": "0.2.9",
+    "title": "Clipper",
+    "description": "This plugin helps you capture highlights from the web.",
+    "hash": "10a6ef1610a6ef1610a6ef1610a6ef16",
+    "created_at": "2026-04-08T14:04:02.694Z",
+    "updated_at": "2026-04-08T14:04:02.694Z"
   },
   {
     "id": "k-3eZkqdoPJ2jmwgf2-5_e97WRlVa0P3",
